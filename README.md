@@ -12,22 +12,22 @@ It's fun to start right away with passions. Gecko was the first app that I reall
 
 ## II. :sun_with_face:  FEATURES
 #### :blossom: 2.1 
- ![Feature_1](https://github.com/hvanphucs/gecko/blob/learn-1.0/images/auth.JPG?raw=true)
+ ![Feature_1](https://github.com/hvanphucs/gecko_preview/blob/main/images/auth.JPG?raw=true)
 - (1) :black_nib: Create an account or sign in with a Google account 
 
 #### :blossom: 2.2 
- ![Feature_1](https://github.com/hvanphucs/gecko/blob/learn-1.0/images/read_new.JPG?raw=true)
+ ![Feature_1](https://github.com/hvanphucs/gecko_preview/blob/main/images/read_new.JPG?raw=true)
 - (1) :black_nib: Suggested news via web scraping or directly entering the website address
 - (2) :black_nib: Directly highlight words in text and translate paragraphs
 - (3) :black_nib: Play game with words (coming soon) Look up words offline by clicking
 #### :blossom: 2.3 
- ![Feature_1](https://github.com/hvanphucs/gecko/blob/learn-1.0/images/offline_dict.JPG?raw=true)
+ ![Feature_1](https://github.com/hvanphucs/gecko_preview/blob/main/images/offline_dict.JPG?raw=true)
 - (1) :black_nib: Look up words offline by tapping
 #### :blossom: 2.4 
- ![Feature_1](https://github.com/hvanphucs/gecko/blob/learn-1.0/images/watchVideo.JPG?raw=true)
+ ![Feature_1](https://github.com/hvanphucs/gecko_preview/blob/main/images/watchVideo.JPG?raw=true)
 - (1) :black_nib: Watch videos and play games
 #### :blossom: 2.5 
- ![Feature_1](https://github.com/hvanphucs/gecko/blob/learn-1.0/images/playBoardgame.JPG?raw=true)
+ ![Feature_1](https://github.com/hvanphucs/gecko_preview/blob/main/images/playBoardgame.JPG?raw=true)
  - (1) :black_nib: Flashcards and games
  - (2) :black_nib: Cross word game
  - (3) :black_nib: Word chain game (coming soon)
